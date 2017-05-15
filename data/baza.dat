@@ -1,0 +1,218 @@
+1.1
+(1)Mostek typu H w Zastosowaniu do w³¹czania silnika pr¹du sta³ego umo¿liwia...:
+4
+Sterowanie obrotami silnika w obie strony.
+Dwukrotne zwiêkszenie mocy silnika.
+Dwukrotne zwiêkszenie momentu obrotowego silnika.
+Przy³¹czenie silnika do ród³a zasilania o dwukrotnie wiêkszym napiêciu ni¿ przy zastosowaniu zwyk³ego wy³¹cznika.
+1
+(2)Przetwornik A/C z wielokrotnym ca³kowaniem charakteryzuje siê miêdzy innymi...
+4
+Eliminacj¹ zak³óceñ wspó³bie¿nych.
+Du¿¹ prêdkoœci¹ dzia³ania.
+Ma³¹ prêdkoœci¹ dzia³ania.
+Eliminacj¹ b³êdu aliasingu.
+3
+(3)W programach w LabView rejestry przesuwaj¹ce (FIFO) umo¿liwiaj¹:
+4
+Utworzenie wielowymiarowych macierzy.
+Utworzenie ³añcuchów tekstowych.
+Dostêp w pêtli do wartoœci z poprzednich wykonañ tej pêtli.
+Wielokrotny pomiar za pomoc¹ jednego urz¹dzenia przy³¹czonego poprzez USB.
+3
+(4)Sterowanie grupowe charakteryzuje siê tym, ¿e:
+4
+Jeden sterownik steruje ca³¹ grup¹ urz¹dzeñ.
+Jeden sterownik wykorzystuje grupê wejœciowych sygna³ów pomiarowych.
+Moc do obci¹¿enia w³¹czana i wy³¹czana jest przy przejœciu przez zero zasilaj¹cego pr¹du zmiennego.
+Grupa sterowników steruje jednym obiektem.
+3
+(5)Interfejs RS232:
+4
+Jest interfejsem równoleg³ym.
+Umo¿liwia po³¹czenie do 16 przyrz¹dów.
+Jest interfejsem szeregowym.
+Jest bajtowym interfejsem równoleg³ym.
+3
+(6)Szumy kwantyzacji 10-bitowego przetwornika C/A w stosunku do pe³nego zakresu przetwarzania wynosz¹ oko³o:
+4
+-20dB.
+-40dB.
+-60dB.
+-80d8.
+3
+(7)Tensometr to...:
+4
+Miernik napiêcia elektrycznego.
+Czujnik odkszta³ceñ mechanicznych.
+Rodzaj czujnika temperatury.
+Miernik ciœnienia gazów palnych .
+2
+(8)Po³¹czenie wielu nadajników do jednej linii transmisyjnej umo¿liwia interfejs:
+4
+RS422.
+RS232
+RS485.
+Równoleg³y interfejs komputera PC.
+3
+(9)Architektura magistrali (szyny) charakteryzuje siê tym, ¿e:
+4
+Kontroler ma osobny interfejs dla ka¿dego przyrz¹du.
+Wszystkie urz¹dzenia s¹ po³¹czone do jednego zestawu przyrz¹dów.
+Zawiera tylko jeden przewód.
+Zawiera po jednym przewodzie na ka¿dy przyrz¹d.
+2
+(10)Aliasing jest skutkiem:n
+4
+Dyskretyzacji.
+Zak³óceñ wspó³bie¿nych.
+Transformaty Fouriera.
+Odwrotnej transformaty Fouriera.
+1
+(11)10-bitowy przetwornik C/A posiada b³¹d dyskretyzacji oko³o:
+4
+10%
+1%
+0.1%
+0.01%
+3
+(12)Regulator PID ró¿ni siê od regulatora PI tym, ¿e:
+4
+Posiada cz³on ró¿niczkuj¹cy.
+Ma zerowy uchyb regulacji.
+Ma wiêksze wzmocnienie.
+Ma mniejsze wzmocnienie.
+1
+(13)Interfejs IEEE488 (GPIB):
+4
+Jest synchronicznym interfejsem szeregowym.
+Umo¿liwia po³¹czenie dowolnej liczby przyrz¹dów.
+Umo¿liwia obs³ugê urz¹dzeñ o ró¿nej prêdkoœci dzia³ania.
+Umo¿liwia po³¹czenie przyrz¹dów na dowolnie du¿e odleg³oœci.
+3
+(14)Napiêcie na wyjœciu wzmacniacza ró¿nicowego:
+4
+Jest proporcjonalne do ró¿nicy napiêæ na wejœciach.
+Jest odwrotnie proporcjonalne do ró¿nicy napiêæ na wejœciach.
+Jest ró¿nic¹ napiêæ miêdzy wyjœciem i wejœciem.
+Jest ró¿nic¹ napiêæ miêdzy wejœciem a napiêciem zasilania.
+1
+(15)Interfejs RS485:
+4
+Jest interfejsem równoleg³ym.
+Umo¿liwia po³¹czenie do 4 przyrz¹dów.
+Umo¿liwia przy³¹czenie do linii wielu odbiorników.
+Jest bajtowym interfejsem równoleg³ym.
+3
+(16)Czujnik generacyjny charakteryzuje siê tym, ¿e:
+4
+Generuje napiêcie sinusoidalnie zmienne.
+Elektryczny sygna³ wyjœciowy jest zale¿ny od mierzonego parametru.
+Wymaga zasilania napiêciem sta³ym.
+Wymaga przy³¹czenia generatora napiêcia zmiennego.
+2
+(17)Termistor to:
+4
+Miernik napiêcia elektrycznego.
+Czujnik odkszta³ceñ mechanicznych.
+Rodzaj czujnika temperatury.
+Miernik ciœnienia gazów palnych.
+3
+(18)VI (Virtual Instrument) to:
+4
+Uniwersalny miernik, który potrafi mierzyæ napiêcie, natê¿enie pr¹du i opór elektryczny.
+Ogólna nazwa procedury lub programu w LabView.
+Miernik zawieraj¹cy mikroprocesor.
+Miernik, który mo¿e wspó³pracowaæ z komputerem.
+2
+(19)Architektura gwiazdy charakteryzuje siê tym, ¿e:
+4
+Kontroler ma osobny interfejs dla ka¿dego przyrz¹du.
+Wszystkie przyrz¹dy s¹ po³¹czone do jednej magistrali.
+Zawiera tylko jeden przewód.
+£¹czy wszystkie przyrz¹dy w pêtlê.
+1
+(20)Sterowanie impulsowe impulsami o zmiennym wype³nieniu ró¿ni siê tym od analogowego, ¿e:
+4
+Generuje mniejsze zak³ócenia.
+Ma du¿o mniejsz¹ sprawnoœæ energetyczn¹.
+Czêsto ma wiêksz¹ sprawnoœæ energetyczn¹.
+Nadaje siê tylko do uk³adów o ma³ej bezw³adnoœci.
+3
+(21)8-bitowy przetwornik C/A posiada b³¹d dyskretyzacji oko³o:
+4
+25%
+2.5%
+0.25%
+0.025%
+3
+(22)Krokowy silnik bipolarny ró¿ni siê tym od unipolarnego, ¿e...
+4
+Mo¿e obracaæ siê w obie strony.
+Mo¿e obracaæ siê tylko w jedn¹ stronê.
+W jego uzwojeniach pr¹d p³ynie w obie strony.
+Ma zakres ograniczony do 180 stopni.
+3
+(23)Multiplekser analogowy w uk³adzie pomiarowym umo¿liwia...
+4
+Zasilanie wielu urz¹dzeñ z jednej wspólnej sieci elektrycznej.
+Mieszanie sygna³ów elektrycznych z wielu Ÿróde³.
+Wybór jednego z wielu sygna³ów elektrycznych.
+Zamianê sygna³ów analogowych na cyfrowe.
+3
+(24)W regulatorze proporcjonalnym nie mo¿na zastosowaæ bardzo du¿ego wzmocnienia, gdy¿...
+4
+Nie da siê zbudowaæ takiego wzmacniacza.
+Zbyt du¿e wzmocnienie powoduje niestabilnoœæ uk³adu regulowanego.
+Zbyt du¿e wzmocnienie powoduje wyst¹pienie b³êdu aliasingu.
+Zbyt du¿e wzmocnienie uniemo¿liwia pomiar wielkoœci regulowanej.
+2
+(25)Napiêcie na wyjœciu idealnego wzmacniacza ró¿nicowego:
+4
+Jest proporcjonalne do ró¿nicy napiêæ na wejœciach.
+Jest odwrotnie proporcjonalne do ró¿nicy napiêæ na wejœciach.
+Jest ró¿nic¹ napiêæ miêdzy wyjœciem i wejœciem.
+Jest ró¿nic¹ napiêæ miêdzy wejœciem a napiêciem zasilania.
+1
+(26)Po³¹czenie wielu nadajników do jednej linii transmisyjnej umo¿liwia interfejs:
+4
+RS422.
+RS423.
+RS485.
+Równoleg³y interfejs komputera PC.
+3
+(27)B³¹d aliasingu jest skutkiem:n
+4
+Dyskretyzacji danych analogowych w procesie przetwarzania.
+Z³ego wyt³umienia zak³óceñ wspó³bie¿nych.
+Transformaty Fouriera.
+Odwrotnej transformaty Fouriera.
+1
+(28)Po³¹czenie wielu nadajników do jednej linii transmisyjnej umo¿liwia interfejs:
+4
+RS422.
+RS423.
+RS485.
+Centronics.
+3
+(29)8-bitowy przetwornik C/A posiada b³¹d dyskretyzacji oko³o:
+4
+40%
+4%
+0.4%
+0.04%
+3
+(30)Uk³ad próbkuj¹co-pamiêtaj¹cy...n
+4
+To rodzaj pamiêci RAM pamiêtaj¹cy wyniki pomiarów
+To inna nazwa pamiêci ROM
+To analogowy uk³ad podtrzymuj¹cy sygna³ mierzony.
+To cyfrowy uk³ad pamiêtaj¹cy adres czujnika pomiarowego
+3
+(31)Przetwornik A/C pracuj¹cy na zasadzie bezpoœredniego porównania charakteryzuje siê...
+4
+Bardzo du¿¹ szybkoœci¹ dzia³ania.
+Du¿¹ dok³adnoœci¹ pomiarów.
+Dok³adnoœci¹ przetwarzania co najwy¿ej szesnastu bitów.
+Brakiem zjawiska aliasingu.
+1

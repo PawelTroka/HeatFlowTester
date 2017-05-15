@@ -1,0 +1,1 @@
+czym siê ró¿ni¹ wienna i plancka
